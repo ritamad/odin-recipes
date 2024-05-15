@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(217, 168, 217,0.8);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 238, 127);
+    background-color: rgba(220, 102, 208, 0.5);
+}
+
+h3 {
+    font-style: italic;
+    
+}
+
+li {
+    font-size: 25px;
+}
