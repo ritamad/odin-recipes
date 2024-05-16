@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(250, 132, 48, 0.962);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2 {
+    color:rgb(42, 52, 235);
+}
+
+ul li {
+    font-weight: 800;
+}

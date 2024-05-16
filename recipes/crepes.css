@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(130, 215, 234);
+}
+
+h1 {
+    text-align: center;   
+}
+
+h1,
+h2 {
+    color: yellow;
+}
+
+ul li {
+    font-weight: 800;
+}
+
